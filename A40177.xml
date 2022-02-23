@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle for friends for them to read</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40177</idno>
+            <idno type="STC">Wing F1811</idno>
+            <idno type="STC">ESTC R43174</idno>
+            <idno type="EEBO-CITATION">26952850</idno>
+            <idno type="OCLC">ocm 26952850</idno>
+            <idno type="VID">109878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1717:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle for friends for them to read</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed on p. 18: The 3d of the 9th moneth, 1679. G.F.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Society of Friends --  Doctrinal and controversial works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:109878:1" rendition="simple:additions"/>
+            <head>AN EPISTLE TO FRIENDS For Them to Read.</head>
+            <opener>
+               <salute>My Dear Friends;</salute>
+            </opener>
+            <p>THE Peaceable Truth live in, which you have received from Jeſus your Saviour, and that by the Grace and Truth that is come by him into your Hearts, you may all abide in Chriſt, and grow up in him, from whence it comes: For, as Chriſt ſaith, <hi>Except you abide in me, you can<g ref="char:EOLhyphen"/>not bring forth Fruit.</hi> And there is none that abide in Chriſt, but who abide in his Light, Grace and Truth.</p>
+            <p>And Chriſt ſaith, <hi>Without me ye can do nothing;</hi> who is the Heavenly and ſpiritual Man, the Second <hi>Adam,</hi> the Lord from Heaven, who hath all Power in Heaven and Earth given to him.</p>
+            <p>So without this Truth and Grace, and the Light, and Power, and Spirit of Chriſt Jeſus, which you receive from him, you cannot abide in him; this brings you to abide in him, and to have his Preſence to ſtrengthen you, ſo that through him you may do all things which he commands and requires of you.</p>
+            <p>And now, <hi>Dear Friends,</hi> to the Light, and Grace, and Truth
+<pb n="2" facs="tcp:109878:2"/>in your Hearts you were turned at the firſt, and now as you do all walk in the Light, and are eſtabliſhed in the Grace and Truth, your Hearts, Minds and Souls, it brings you to Chriſt, the heavenly ſpiritual Rock and Foundation, and to build upon him, with the Light, Grace and Truth, that comes from him; and then you will ſee ſuch as Chriſt ſpeaks of, that did profeſs him and preach him, but did not abide in his Light, Grace and Truth, ſo not in Chriſt Jeſus; and ſuch Chriſt will not know, that do not a<g ref="char:EOLhyphen"/>bide in him, with his Light, Grace &amp; Truth, from whence it comes.</p>
+            <p>For the Grace, Truth and Light that cometh by Jeſus, this makes Inward <hi>Chriſtians,</hi> and <hi>Jews</hi> Inward, who have the Praiſe of God, though not of Men.</p>
+            <p>For the Apoſtles in their dayes, they had to do with ſeveral ſorts of People, ſome that preached Chriſt of Envy, and ſome of Contention, and ſome of Good Will, notwithſtanding the Apoſtles rejoyced that Chriſt was preached. But then after a time, when many had gotten the Form of Chriſtianity and Godlineſs, and denyed the Power thereof, he exhorted the Faithful, that kept their Habitation in Chriſt Jeſus, to turn away from ſuch.</p>
+            <p>And yet ſuch went under the Name of <hi>Chriſtians,</hi> elſe they could not have the Form of Godlineſs.</p>
+            <p>And likewiſe, ſuch as got the good Words and fair Speeches, with which they deceived the Hearts of the Simple, theſe were got to be Preachers among the <hi>Chriſtians.</hi>
+            </p>
+            <p>And the Heady, High-minded and Fierce Deſpiſers, theſe had the Form of Godlineſs, though they denyed the Power of it, which they were turned from.</p>
+            <p>So they that lived in the Light, Grace and Truth, and the Power and Spirit of Chriſt, were to turn away from ſuch, that had the Form of Godlineſs, and denyed the Power.</p>
+            <p>And ſuch as theſe, that had the Form of Godlineſs and denyed the Power, were come farther than ſuch as taught for Doctrine the Rudiments and Precepts of the World and Doctrines of Men; or the profeſſing <hi>Jews</hi> and <hi>Gentiles,</hi> that ſtood againſt the Name of Chriſt, which were altogether Unbelievers of the very Form of Godlineſs of the New Covenant.</p>
+            <pb n="3" facs="tcp:109878:2"/>
+            <p>And likewiſe ſuch, that were doting about Queſtions, and Strifes about Words, Vain Janglers and Diſputers, Men of Corrupt Minds, and thoſe that were Unruly, and Vain Talkers; many of theſe were Teachers, which were Troublers of the Churches in the Apoſtles dayes.</p>
+            <p>And thoſe that <hi>Peter</hi> and <hi>Jude</hi> cryed againſt, that were come ſo far as <hi>Balaam</hi> to propheſie, and <hi>Cain</hi> to hear the Voice of God, and a <hi>Corah,</hi> which came out of <hi>Aegypt;</hi> many of theſe got up to be Teachers, having high ſwelling Words, which the Apoſtle judged them amongſt the fallen Angels, and the old World, and <hi>Sodom,</hi> who were turned to be Mockers.</p>
+            <p>And ſuch like as theſe were they, that ſeparated themſelves, being ſenſual, having not the Spirit. And ſo it ſeems theſe did ſet up Separations from the Apoſtles and Saints in their dayes.</p>
+            <p>And the Apoſtle declareth, how <hi>the Lord ſaved his People out of the Land of</hi> Egypt, <hi>and afterward deſtroyed them that belie<g ref="char:EOLhyphen"/>ved not; and the Angels that kept not their firſt State, but left their own Habitation, he hath reſerved in everlaſting Chains under Dark<g ref="char:EOLhyphen"/>neſs, unto the Judgment of the great Day.</hi>
+            </p>
+            <p>And ſo theſe, which went under the Name of <hi>Chriſtians,</hi> that had been convinced, and had got a Form of Godlineſs and <hi>Chriſtianity,</hi> that kept not their firſt ſtate, in the Light, and Grace and Truth, and by it, their Habitation in Chriſt Jeſus, they came under the Chain of Darkneſs.</p>
+            <p>And therefore, <hi>Friends,</hi> you ſee how the Apoſtle was trou<g ref="char:EOLhyphen"/>bled with the Falſe Apoſtles and Satan's Meſſengers, that got a<g ref="char:EOLhyphen"/>mong the <hi>Corinthians,</hi> and how they deſpiſed the Apoſtle.</p>
+            <p>And likewiſe what was got up among the <hi>Romans</hi> and <hi>Galathi<g ref="char:EOLhyphen"/>ans,</hi> and in the dayes of <hi>John,</hi> as he manifeſts in his Epiſtles.</p>
+            <p>And therefore, how Careful were the true Apoſtles of the Saints in their watching over them!</p>
+            <p>For <hi>John</hi> ſaid, <hi>If ye walk in the Light, as he is in the Light, then have we Fellowſhip one with another. And that ye alſo may have Fellowſhip with us; for truly our Fellowſhip is with the Father and his Son Jeſus Chriſt. And theſe things write we unto you, that your Joy may be full.</hi>
+            </p>
+            <p>For many may talk of the Light, and preach the Light; but
+<pb n="4" facs="tcp:109878:3"/>to walk in the Light; that is it which grafts into Chriſt Jeſus, and brings to live in him, which talking of him doth not.</p>
+            <p>And as the Apoſtle ſaid, <hi>As every one hath received Chriſt Jeſus, ſo walk in him.</hi>
+            </p>
+            <p>
+               <hi>And the Sayers of the Word, and not the Doers, deceived their own Souls.</hi>
+            </p>
+            <p>So there may be many Sayers of the Word, Deceivers of their own Souls and others, and Preachers of Chriſt Jeſus. But the Doers of the Word, and the Walkers in Chriſt Jeſus, are they that are Accepted of the Lord.</p>
+            <p>And again, as the Apoſtle ſaith, <hi>The Word of Faith was nigh them, in their Hearts and Mouthes, to obey it and do it, and that was the Word of Faith which they preached.</hi>
+            </p>
+            <p>
+               <hi>And the Light ſhined in their Hearts, to give them the Knowledge of the Glory of God in the Face of Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <hi>And the Anointing which you have received of him, abideth in you; and ye need not that any man teach you, but as the ſame A<g ref="char:EOLhyphen"/>nointing teacheth you of all things, that is true, and is no Lye; and even as it hath taught you, ye ſhall abide in him. And theſe things I have written unto you,</hi> ſaith the Apoſtle, <hi>concerning them that ſeduce you.</hi>
+            </p>
+            <p>So here may all the inward Chriſtians in the Grace, Light, Truth, Power and Spirit of Chriſt Jeſus, ſee what the Apoſtles exhorted the Saints unto, that they might be preſerved in their day, and ſo by the ſame now, from them that deceived their own Souls and others.</p>
+            <p>And ſo by this Light, this Word, the Anointing, Grace, Truth, Power and Spirit of Jeſus Chriſt in the Heart, Mind and Soul, muſt all the Saints be guided now, by which they may <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to be inward Chriſtians, and have a Habitation in Chriſt Jeſus, and ſo built upon him the living Rock and Foundation, as the Saints were in the Apoſtles dayes; and ſo to have Salt in your ſelves, and the Leaven in your own Meal, and the Pearl in your own Field, and your Lamps lighted in your own Tabernacles, and nouriſhed with the Heavenly Oyl. So that you may put a Dif<g ref="char:EOLhyphen"/>ference betwixt the Clean and the Unclean, and what you are to touch, and what you are not. And that no Man or Woman may
+<pb n="5" facs="tcp:109878:3"/>look below Heaven for their Bread, to nouriſh their Souls and inward Man, and below God and Chriſt for their Springs, which by continuing in the Light, which is the Life in Chriſt, the Word, by which all things were made and created, they ſhall have a Spring from him the Fountain, ſpringing up in them to Eternal Life; ſo they ſhall have both the upper &amp; nether Springs to nouriſh the Plant that God hath planted.</p>
+            <p>And ſuch as came out of <hi>Aegypt</hi> with <hi>Moſes,</hi> and after re<g ref="char:EOLhyphen"/>belled againſt the Lord, and <hi>Moſes,</hi> and the Law and the Pro<g ref="char:EOLhyphen"/>phets, which were a greater Grief to <hi>Moſes</hi> and the Prophets than the <hi>Heathen.</hi>
+            </p>
+            <p>And likewiſe, thoſe that came to be <hi>Chriſtians</hi> called, and had got the Form of Godlineſs, came to be a greater Grief to the Apoſtles than the World; for their Work was to ſeek to deſtroy that which the Apoſtles had begotten, and them that they had turned to Chriſt. And therefore well might the Apoſtle exhort the Saints, <hi>to turn away from ſuch, that had the Form of Godli<g ref="char:EOLhyphen"/>neſs, and denyed the Power;</hi> and therefore he told the Saints, <hi>The Kingdom of Heaven ſtands not in Words, but in Power;</hi> and there<g ref="char:EOLhyphen"/>fore they were to know one another in the Spirit and Power, and that is the eternal Knowledge: And their Fellowſhip was to be in the Holy Ghoſt, and their Unity in the Spirit, which was the Bond of Peace: And their Fellowſhip was to be in the Go<g ref="char:EOLhyphen"/>ſpel, which was the Power of God. So an Everlaſting Fellow<g ref="char:EOLhyphen"/>ſhip in the Everlaſting Power of God, that will out-laſt the pow<g ref="char:EOLhyphen"/>er of Darkneſs; for it was before it was. And alſo, their Uni<g ref="char:EOLhyphen"/>ty was to be in the precious Divine Faith, which Chriſt was the Author and Finiſher of, the Myſtery of which was held in the pure Conſcience; and their Worſhip was in the Spirit of God, and in the Truth. So you may ſee what a Heavenly Unity and Fel<g ref="char:EOLhyphen"/>lowſhip and a Worſhip Chriſt and the Apoſtles ſet up.</p>
+            <p>And the Saints in the Light, Grace, Truth, Spirit and the Power of God the Goſpel, lived in it, and walked in it. So with the Light, Grace, Truth, Power, Spirit and Word of Life in the Heart, all hold Chriſt the Head, who is the Head of all things, by whom all things were made, who is the Treaſure of the heavenly ſaving Wiſdom and Knowledge, who is called the <hi>ſecond Adam,</hi> the <hi>Lord from Heaven.</hi>
+            </p>
+            <pb n="6" facs="tcp:109878:4"/>
+            <p>And therefore all are to have their Knowledge and their Wiſ<g ref="char:EOLhyphen"/>dom from him the Treaſure, by the Light, Grace, Truth, Power and Spirit that comes from him, it leads you to him your Trea<g ref="char:EOLhyphen"/>ſure of heavenly Wiſdom and Knowledge, by which Know<g ref="char:EOLhyphen"/>ledge you know God, and Jeſus Chriſt whom he hath ſent, which is Life Eternal to know.</p>
+            <div type="part">
+               <head>And now, my Dear Friends, concerning <hi>TRUE LIBERTY.</hi>
+               </head>
+               <p>THE True Liberty is in the Goſpel, the Power of God, which the Devil and his Inſtruments, with his Falſe Liber<g ref="char:EOLhyphen"/>ty, cannot get into.</p>
+               <p>And in this Goſpel is the Saints Fellowſhip, which the Devil with all his falſe fellowſhips cannot get into, nor find it; for it is a Myſtery. Likewiſe true Liberty is in the Faith, which Jeſus Chriſt is the Author and Finiſher of, which gives Victory over that which ſeparated man and Woman from God, and by which they have acceſs to God again. And in this holy, pure, divine, precious Faith, that is held in the pure Conſcience, which pure Conſcience hath its pure, holy, divine, precious Liberty, in this holy, divine, precious Faith, which works by Love (and not as the dead Faith doth, which works by Enmity) which is the Fruit of this holy, pure, divine Faith: and in it is the divine, pure, holy, precious Liberty and Freedom. So here is the divine, holy, pure and precious Liberty in this Faith, which works by Love, that is the Victory over that which brought Man and Wo<g ref="char:EOLhyphen"/>man into Bondage, and Slavery, and Falſe Liberty. So this living Faith is the Victory over all dead Faiths and falſe Freedoms and Liberties; which holy, divine, pure and precious Faith, the Saints were and are to contend for, which Chriſt the Holy One is the Author and Finiſher of: So in this holy, divine, pure and pre<g ref="char:EOLhyphen"/>cious Faith, they have a holy, divine, pure and precious Unity and Liberty, which is the Victory over the Enmity &amp; the Adverſary,
+<pb n="7" facs="tcp:109878:4"/>the Deſtroyer, and all his Inſtruments; and they cannot come within this holy, divine, pure and precious Unity and Liberty, which is in the Faith; for it is a Myſtery: and gives Victory over him, and is the Acceſs to the pure God, and to Chriſt the Au<g ref="char:EOLhyphen"/>thor of it; which all are to ſtand faſt in that Liberty wherewith Chriſt hath made them free, who is the heavenly and ſpiritual Man, the ſecond <hi>Adam.</hi>
+               </p>
+               <p>For the Bondage, Captivity and Thraldom, Falſe Freedom and Falſe Liberty was and is in old <hi>Adam,</hi> in Tranſgreſſion; &amp; the true Liberty is that, which Chriſt the pure &amp; holy One makes free in; and this is a pure holy Liberty, which Chriſt makes, and ſets his People free in; in which they are all to ſtand faſt over all the falſe Liberties and Freedoms, which are Bondage.</p>
+               <p>Alſo, the true Liberty is in the Truth, which <hi>if the Truth hath made you free, then are you free indeed, from him that abode not in the Truth. in whom there is no Truth.</hi> So then there is no true Freedom nor Liberty in him; and he in whom there is no Truth, cannot come into this Freedom and Liberty, which is in the Truth, but remains in the Falſe.</p>
+               <p>For the <hi>Jews</hi> in the dayes of Chriſt, boaſted of their Liberty and Freedom, though they were in Bondage both inwardly and outwardly; and that <hi>they were of</hi> Abraham <hi>their Father;</hi> but Chriſt told them, <hi>The Devil was their Father, &amp; his luſts ye will do.</hi>
+               </p>
+               <p>And alſo, in the dayes of the Apoſtles, many of the Falſe <hi>Chriſtians</hi> boaſted of their Liberty; but who was overcome by them, was brought into Bondage.</p>
+               <p>And the Apoſtle was ſo careful of his Liberty in Chriſt Jeſus, that ſuch as came to ſpye it out, &amp; were ſomewhat in Conference; but they added nothing to him; and unto ſuch he would not give place by Subjection, but rather reproved them; and directed every one to walk according to the meaſure of the Rule which God had diſtributed to them.</p>
+               <p>And alſo, True Liberty is in the Light and Grace, and the Spirit which comes by Jeſus, which by believing in the Light, they are grafted into Chriſt, and ſo into true Liberty and Free<g ref="char:EOLhyphen"/>dom, and ſo are entred into the Reſt, out of the Toil of old <hi>Adam;</hi> for they are grafted into him who was before old <hi>Adam</hi> was.</p>
+               <pb n="8" facs="tcp:109878:5"/>
+               <p>For Unbelievers in the Light, are grafted into old <hi>Adam,</hi> in Tranſgreſſion. And the Believers in the Light, which is the Life in Chriſt, are grafted into Chriſt the Word, by which all things were made and Created. So here is perfect true Freedom and Liberty.</p>
+               <p>And likewiſe, the true Liberty and Freedom is in the Grace, which brings Salvation, and not Deſtruction; and teaches to live Godly, not Ungodly; and Soberly, not Unſoberly; and Righ<g ref="char:EOLhyphen"/>teouſly, not Unrighteouſly: and teaches to deny the World, and not to cleave to it and to follow it.</p>
+               <p>This Grace ſtabliſhes the Heart, and ſeaſons the Words; the Fruits of its Liberty and Freedom will manifeſt it ſelf.</p>
+               <p>And alſo, the True Liberty in the pure holy Spirit of God and Chriſt doth baptize and plunge down that which is gotten up by Tranſgreſſion in Man and Woman, and Circumciſes and cuts off the Body of Death and Sin in the Fleſh, that is gotten up in Man and Woman by Tranſgreſſion, and mortifies and kills that which would grieve, vex or quench the Motions of the pure Spirit of God, ſo that in this holy pure Spirit of this pure God and Chriſt, is the holy pure Freedom and Liberty over all Bondage and falſe Liberties and Freedoms.</p>
+               <p>And the Fruits of this pure Spirit is pure Love, Righteouſneſs and Godlineſs, Patience, Temperance and Humility; by which Spirit all are made to drink into one Spirit; ſo that all are the li<g ref="char:EOLhyphen"/>ving Wells, that have their living Water from God and Chriſt, their true and living Fountain; and in which Spirit they have a holy and ſpiritual Fellowſhip, in this Baptizing, Mortifying, Cir<g ref="char:EOLhyphen"/>cumciſing Spirit, yea, one with another, and with the Son and the Father alſo, through which the Love of God warms every one; Heart. But when the <hi>Love of many waxes cold,</hi> as Chriſt ſaith, then they go from this <hi>Grace, Light, Truth, Power</hi> and <hi>Spirit,</hi> and the <hi>Anointing,</hi> and the <hi>Word of God in their own Hearts;</hi> then ſuch turn to be Betrayers, and not Saviours upon <hi>Mount Sion: And againſt ſuch God's ſwift Judgment turns, and ſuddainly falls, though they may cry for a time,</hi> Liberty, Freedom <hi>and</hi> Peace, Peace; <hi>but a Day of Trouble will overtake them ere they are aware.</hi>
+               </p>
+               <p>And therefore all ye Friends of Chriſt Jeſus, ſtand faſt in that
+<pb n="9" facs="tcp:109878:5"/>Liberty wherewith Chriſt Jeſus hath made you free, by his Light Grace, Truth, Spirit, Faith and Everlaſting Goſpel, the Everla<g ref="char:EOLhyphen"/>ſting Power of God, which is an Everlaſting Freedom and Li<g ref="char:EOLhyphen"/>berty above all Bondage and falſe fallen Liberties and Freedoms; in this glorious Goſpel and glorious joyful Liberty, where all may exerciſe God and Chriſt's holy Gifts in his holy ſupernatural Light, Grace, Truth, Spirit, and divine Faith, &amp; Word of Life, and the Goſpel; which Word cannot be bound with all the World's Cords or Chains; <hi>for it is a Fire to burn, and a Hammer to break, and a Sword to cut in pieces:</hi> and therefore Love the Word, and <hi>keep the Word of Patience, and the Lord will keep you</hi> (for it is a tryed Word, and it will keep you) <hi>in all Tryals, which ſhall come upon all the World to try them:</hi> for the Word was before the World was, and will be when the World is gone, which all the new born Babes of the incorruptible Seed of the Milk of the Word, grow by it up into an immortal Life, and Kingdom that is without End; <hi>Glory and Praiſes to the Lord God forever.</hi>
+               </p>
+               <p>And now ye Babes of Chriſt, <hi>If the World do hate you, it hated Chriſt your Lord and Maſter alſo; if they do meek, and reproach, and defame, and buffet you; they did ſo to your Lord and Maſter alſo,</hi> who was and is the Green Tree, that gives Nouriſhment to all his Branches his Followers.</p>
+               <p>Now, if the World do perſecute you, and take away your Goods or Clothes, was not your Lord and Maſter ſo ſerved? did not they caſt Lots for his Garments? was not he haled from the Prieſts to <hi>Herod,</hi> and before <hi>Pontius Pilate,</hi> and ſpit upon? and if they hate thee, and ſpit upon thee, he was hated and ſpit upon for thee: did he not go to Priſon for thee? and was he not mocked and ſcourged for thee? did not he bow to the Croſs and Grave for thee, <hi>he who had no Sin, neither was Guile found in his Mouth?</hi> and did he not bear thy Sins in his own Body upon the Tree? and was he not ſcourged for thee? <hi>by whoſe Stripes we are healed:</hi> did not he ſuffer the Contradiction of Sinners, who dyed for Sinners, and went into the Grave for Sinners, and dyed for the Ungodly, yea, taſted Death for every man, <hi>who through Death deſtroyed Death, and the Devil, the power of Death, and is riſen;</hi> for Death and the Grave could not hold him, nor the Powers and
+<pb n="10" facs="tcp:109878:6"/>Principalities, with all their Guards and Watches, could not hold him within the Grave, but he is riſen, and is aſcended far above all Principalities, Powers, Thrones and Dominions, and is ſet down at the Right Hand of God, and remaineth in the Heavens till all things be reſtored: And he is reſtoring with his Light, Grace, Truth, Power, Spirit, Faith, Goſpel and Word of Life; ſo that you read of ſome, <hi>that came to ſit together in Heavenly Places in Chriſt Jeſus.</hi>
+               </p>
+               <p>And therefore all muſt bow at the Name of Jeſus their Saviour, in his Light, Grace, Truth, Power, Spirit and Goſpel (for he hath bowed for you) if you riſe with him: And you muſt ſuffer with him, if you will reign with him; and dye with him, if you will live with him. And all that are dead and <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>yed with Chriſt, and are riſen with him, they will ſeek thoſe things that come down from above, where Chriſt ſits at the Right Hand of God; and there you will ſeek thoſe things which come down from above, and not thoſe things which are below.</p>
+               <p>For thoſe which ſeek thoſe things that are below, are the Tall<g ref="char:EOLhyphen"/>ers of God and Chriſt, and the Prophets and the Apoſtles words; but they are not dead with Chriſt, nor riſen with him; and there<g ref="char:EOLhyphen"/>fore they cannot ſeek thoſe things that come down from Heaven, where Chriſt ſits at the Right Hand of God. But they are them that ſeek the things that are Above, that are dead with Chriſt, and riſen with him; they, I ſay, do ſeek thoſe things which come down from Heaven, where Chriſt ſits at the Right Hand of God; and they have not only ſought them, but have found them and received them, and come to ſit together in Heavenly Places in Chriſt Jeſus, a ſafe eſtabliſhed and heavenly ſitting in a heaven<g ref="char:EOLhyphen"/>ly Reſt and Habitation in Chriſt Jeſus, who is the Firſt and Laſt, and over all, from Everlaſting to Everlaſting; <hi>Bleſſings and Praiſes over all be to the Lord God through him forever,</hi> Amen.</p>
+               <p>The Eternal living God of Truth, he is a God of Order, and is not the Author of Confuſion, but of Peace in all the Churches of the Saints.</p>
+               <p>Now, the Author of Confuſion, and not of Peace, is the God of the World, who abode not in the Truth, becauſe there is no Truth in him; <hi>and when he ſpeaks a Lye, he ſpeaks of his own; for he is a Lyar, and the Father of it.</hi>
+               </p>
+               <pb n="11" facs="tcp:109878:6"/>
+               <p>Now, the <hi>Jews,</hi> which did the God of the World's Luſts, and them called <hi>Chriſtians</hi> that do, were in Strife, Confuſion and Diſorder.</p>
+               <p>For the <hi>Jews,</hi> they went out of the Order of <hi>Aaron</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> going from the Spirit of God poured out upon the Houſe of <hi>Iſrael,</hi> and ſo went from the Lord and his Law, went into Confuſion and Diſorder, which the living God of Truth was not the Author of.</p>
+               <p>Alſo the <hi>Chriſtians,</hi> which go from the Light, Grace, Truth, Power, Spirit, Goſpel and Faith, which Chriſt Jeſus is the Au<g ref="char:EOLhyphen"/>thor of, they go from Chriſt and his Order, who was not made a Prieſt after the Order of <hi>Aaron,</hi> but after the Order of <hi>Mel<g ref="char:EOLhyphen"/>chizedech, who was without beginning of Dayes or end of Life,</hi> an Everlaſting Order.</p>
+               <p>And ſuch go into Strife and Confuſion that go from Chriſt, which Chriſt and God is not the Author of, but the World's God, who got into Man and Woman by Tranſgreſſion and Diſo<g ref="char:EOLhyphen"/>bedience of the Command of God; who is the God of Confu<g ref="char:EOLhyphen"/>ſion, Strife and Diſorder, in whom there is no Truth. For what Order can there be in the <hi>World's God,</hi> and amongſt his Subjects, in whom there is no Truth; and in whom there is no Truth, there is no true Order; and they that abide not in the Truth, Grace, Light, Spirit, Goſpel, Faith and Word of Life, they abide not in the Order of God and Chriſt.</p>
+               <p>And ſuch will cry againſt the Order of the Truth, Light, Grace, Spirit, Goſpel, Faith and Word of Life, which brings into the Order of Chriſt, and the Order of the living eternal God of Truth, who is a God of Order, and delights in Order, having Pleaſure in them that live in his Spirit, and Law of Life, and the Goſpel, and its Order. For bleſſed is the Man that de<g ref="char:EOLhyphen"/>lights in the Law or Order of God; it was ſo under the old Co<g ref="char:EOLhyphen"/>venant: much more bleſſed is the Man or Woman that delights in the Law and Order of Love, and the Law and Order of Faith, and the Law and Order of Life, and of the Goſpel, the Power of God.</p>
+               <p>And none keep the Law of Faith, but who keep in the Faith which Chriſt is the Author of, which works by Love. And none
+<pb n="12" facs="tcp:109878:7"/>keep the Law of Life, but who keep in the Law of the Spirit, and walk in it, which is in Chriſt Jeſus, the heavenly and ſpiritu<g ref="char:EOLhyphen"/>al Second <hi>Adam,</hi> who was before old <hi>Adam</hi> was, who was un<g ref="char:EOLhyphen"/>der the <hi>World's God,</hi> out of Truth, i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whom there is no Truth nor true Order, but Confuſion and Unrulineſs.</p>
+               <p>And therefore all who come to God, who is a <hi>God of Order,</hi> muſt come by the <hi>Grace, Truth, Light, Power, Goſpel, Faith</hi> and <hi>An<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inting, the Word of Life within;</hi> and ſuch come to love the Lord Jeſus Chriſt, and to delight in God and Chriſt's Order. So you may ſee, <hi>that God is a God of Order,</hi> who called <hi>Aaron</hi> and <hi>Moſes,</hi> and they had an <hi>Order</hi> from God. And <hi>Melchize<g ref="char:EOLhyphen"/>deck</hi> had an <hi>Order;</hi> and Chriſt is after his <hi>everlaſting Order.</hi>
+               </p>
+               <p>And Chriſt the Truth hath an everlaſting Kingdom, that ſtands in everlaſting Righteouſneſs, and Power &amp; Joy in the holy Ghoſt; yea, an eſtabliſhed Kingdom, that will never have an end, and can<g ref="char:EOLhyphen"/>not be broken: and no imperfect, defiled nor corruptible thing enters into it.</p>
+               <p>And all Chriſt Jeſus his Subjects of his everlaſting Kingdom, that ſee it, and enter into it, are born again not by the Will of Man, but of an incorruptible Seed, by the Word of God, and have the incorruptible Milk of the Word of God, by which they grow from Babes to Men of God; and have the Fine Linnen, the In<g ref="char:EOLhyphen"/>corruptible Clothing, the Righteouſneſs of Chriſt, which is the Fine Linnen, which they do wear in Chriſt's Kingdom.</p>
+               <p>So all Chriſt's Subjects of his Kingdom are known by their Birth and Clothes, and live in his Order of his <hi>Goſpel of Love, Life, Light, Grace</hi> and <hi>Truth;</hi> which no man comes into his Kingdom and Order, but by the <hi>Light, Grace</hi> and <hi>Truth, Faith, Power</hi> and <hi>Spirit,</hi> and <hi>Anointing,</hi> and <hi>Word of Life within,</hi> through which they know Chriſt, and his Everlaſting Kingdom, that ſtands in Power and Righteouſneſs, and Joy in the Holy Ghoſt; and by it keep in his Order of the Law of Life, which they have in Chriſt Jeſus.</p>
+               <p>And they that follow the <hi>World's God,</hi> that are out of Truth, &amp; diſobey their Creator, the God of Truth, and the Lord Jeſus Chriſt; I ſay, all ſuch obey and follow him in whom there is no Truth; and ſuch cannot endure to hear talk of the <hi>Order of
+<pb n="13" facs="tcp:109878:7"/>Truth</hi> and of the <hi>Goſpel,</hi> or the <hi>Law,</hi> or <hi>Order of the Spirit of Life</hi> which is in Chriſt Jeſus, which all they that do obey the Voice of the Lord, and Chriſt Jeſus in his Light, Grace and Truth, and Goſpel, the Power of God, and his Holy Spirit, and Faith, and Word of Life within, come into Unity and Fellowſhip one with another, and with the Son, and with the Father; and in this they know the <hi>Order of Chriſt,</hi> and <hi>God to be a God of Order,</hi> and delights in his Heavenly and Eternal <hi>Or<g ref="char:EOLhyphen"/>der of Light, Life, Power</hi> and <hi>Spirit of God,</hi> that is over Death and Darkneſs, and the <hi>World's God,</hi> who is a <hi>God of Diſorder,</hi> in whom there is no true Order, but Confuſion; and into this holy Order of the Everlaſting Light &amp; Life he cannot come: <hi>Glo<g ref="char:EOLhyphen"/>ry to the Lord God, and his Son Chriſt Jeſus, who is over all from Everlaſting to Everlaſting, and is the Rock and Foundation and Habitation of his People, bleſſed forever and evermore,</hi> Amen,</p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <p>HERE you may ſee by theſe following Scrip<g ref="char:EOLhyphen"/>tures, how the Apoſtles loved the good and holy Order of Chriſt in his Goſpel, and Light, and Life and Truth; but as <hi>Job</hi> ſaid, <hi>The Land of Darkneſs is without any Order.</hi> And <hi>Babylon</hi> ſignifies <hi>Confuſion,</hi> which is the Falſe Church, and is called a <hi>Woman,</hi> and <hi>a City of Confuſion,</hi> who is againſt the Order of the true Church, and gets the Titles of the true Church that
+<pb n="14" facs="tcp:109878:8"/>is called a <hi>City,</hi> and a <hi>Woman, which brings forth the Man Child, Chriſt Jeſus; and of the inereaſe of his Go<g ref="char:EOLhyphen"/>vernment and Peace there ſhall be no end; who ſits upon the Throne of</hi> David, <hi>and upon his Kingdom, to Order it, to ſtabliſh it with Judgment and with Juſtice, from hence<g ref="char:EOLhyphen"/>fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th and forever.</hi> So here you may ſee Chriſt doth order in his Kingdom; and them that have him, have his Order, <hi>Iſa.</hi> 9.</p>
+               <p>And <hi>David</hi> ſaith, <hi>Although mine Houſe be not ſo with God, yet he hath made with me an Everlaſting Covenant, Ordered in all things, and ſure for all my Salvation, and all my Deſire, &amp;c.</hi> 2 Sam. 23.</p>
+               <p>Again, <hi>David</hi> ſaith, <hi>Order my Steps by thy Word, and let not Iniquity have Dominion over me,</hi> Pſalm 119.133.</p>
+               <p>Which is the Duty of every true <hi>Chriſtian,</hi> to have their Steps ordered by the Word of God, that lives, and abides, and endures forever; which Word is a Word of Order.</p>
+               <p>And <hi>David</hi> ſaith, <hi>The Steps of a good man are ordered by the Lord, and he delights in his Way. I have been young and now am old, yet I have not ſeen the Righteous forſaken, nor his Seed begging Bread: He is ever merciful, and lend<g ref="char:EOLhyphen"/>eth, and his Seed is bleſſed,</hi> Pſal. 37.</p>
+               <p>Here you may ſee, how the Lord delights in him and them that walk in the Steps the Lord orders them with his Word.</p>
+               <p>
+                  <hi>And him that orders his Converſation aright, ſhall ſee the Salvation of God,</hi> Pſalm 49.</p>
+               <p>And this Order muſt be in the Light, which is the Life in Chriſt the Saviour.</p>
+               <p>And the Apoſtle <hi>Paul,</hi> after he had ſpoken many things to the <hi>Corinthians,</hi> he ſaid, <hi>The reſt will I ſet in Order when I come,</hi> 1 <hi>Cor.</hi> 11.</p>
+               <pb n="15" facs="tcp:109878:8"/>
+               <p>And he ſaith concerning the <hi>Collections for the Saints</hi> in 1 <hi>Cor.</hi> 16. <hi>As I have given Order to the Churches of</hi> Galatia, <hi>even ſo do ye</hi> (to wit, the <hi>Corinthians.</hi>)</p>
+               <p>So they were to practiſe the ſame Order, which were the Believers in Chriſt, which the Apoſtle in the Power of Chriſt had given to them.</p>
+               <p>For the Apoſtles had the Wiſdom of God, which he had ordained before the World, unto the Glory of his People then and now alſo, 1 <hi>Cor.</hi> 2.</p>
+               <p>And the Order that the Apoſtle did give to the Churches of the <hi>Galatians</hi> and the <hi>Corinthians</hi> was, <hi>That upon the Firſt Day of the Week, every one of them lay by him in ſtore as God had proſpered him, &amp;c.</hi>
+               </p>
+               <p>And in <hi>Acts</hi> 14. When they had <hi>Ordained</hi> Elders in every Church, and had prayed, they commended them to the Lord on whom they had believed, con<g ref="char:EOLhyphen"/>firming the Souls of the Diſciples, &amp;c. and exhort<g ref="char:EOLhyphen"/>ing them to continue in the Faith; and that they might paſs thorow much Tribulation to enter into the Kingdom of God.</p>
+               <p>And as <hi>Paul</hi> and others with him went through the Cities, they delivered them the Decrees for to keep, that were Ordained of the Apoſtles and Elders which were at <hi>Jeruſalem,</hi> and ſo were the Churches eſtabliſh<g ref="char:EOLhyphen"/>ed in the Faith, and increaſed in Number daily, <hi>Acts</hi> 16.</p>
+               <p>And the Occaſion of theſe Decrees was, becauſe ſome men that went from <hi>Judea,</hi> taught the Brethren, ſaying, <hi>Except ye be Circumciſed after the Manner of</hi> Moſes, <hi>ye cannot be ſaved,</hi> Acts 15. And theſe De<g ref="char:EOLhyphen"/>crees were to ſtop ſuch Preachers.</p>
+               <p>For the Apoſtles and Elders ſaid,
+<q rend="margQuotes">Foraſmuch as
+<pb n="16" facs="tcp:109878:9"/>we have heard, that certain which went out from us, have troubled you with words, ſubverting your Souls, ſaying, Ye muſt be Circumciſed, and Keep the Law; to whom we gave no ſuch Command<g ref="char:EOLhyphen"/>ment.</q>
+               </p>
+               <p>Now it is clear, the Apoſtles and Elders gave theſe Teachers no ſuch Commandment, to preach ſuch Do<g ref="char:EOLhyphen"/>ctrine to trouble the Churches.</p>
+               <p>And the Apoſtle <hi>Paul,</hi> after he had ſpent ſome time at <hi>Caeſaria</hi> and <hi>Antioch,</hi> he went over all the Coun<g ref="char:EOLhyphen"/>try of <hi>Aſia</hi> and <hi>Phrygia</hi> in Order, ſtrengthning all the Diſciples, <hi>Acts</hi> 18.</p>
+               <p>So you may ſee, how they were a Comfort one to another.</p>
+               <p>And the Apoſtle writes to <hi>Titus,</hi> Chap. 1. <hi>For this Cauſe I have left thee in</hi> Creete, <hi>that thou ſhouldſt ſet in Order the things that are wanting; and Ordain Elders in every City, as I have appointed thee.</hi>
+               </p>
+               <p>So here <hi>Titus</hi> in the Spirit of God did obſerve that which <hi>Paul</hi> in the Power of Chriſt did exhort him to.</p>
+               <p>But ſuch as are againſt the Order and Practice in the Light and Goſpel, cannot Order their Speeches by rea<g ref="char:EOLhyphen"/>ſon of Darkneſs.</p>
+               <p>And the Apoſtle ſaith in <hi>Col.</hi> 2. <hi>Though I be abſent in the Fleſh, yet am I with you in the Spirit, joying and beholding your Order, and ſteadfaſtneſs of your Faith in Chriſt: As ye have therefore received Chriſt Jeſus the Lord, ſo walk ye in him.</hi>
+               </p>
+               <p>Here the Apoſtle rejoyced in the Order that kept them in the Faith and Stedfaſtneſs in Chriſt Je<g ref="char:EOLhyphen"/>ſus,</p>
+               <pb n="17" facs="tcp:109878:9"/>
+               <p>Therefore the Apoſtle ſaith, <hi>Every man in his own Order, Chriſt the Firſt Fruits, &amp;c. For in</hi> Adam <hi>all dyed, even ſo in Chriſt ſhall all be made alive.</hi>
+               </p>
+               <p>And they that be alive in Chriſt Jeſus, are in his Order of Life and Light, and in his Goſpel the Power of God.</p>
+               <p>And the Apoſtle ſaith in 1 Cor. 14.40. <hi>Let all things be done Decently and in Order.</hi>
+               </p>
+               <p>And the Heavens and the Earth, and all things therein, are Governed and Ordered by the Lord in his Power and Wiſdom; and all God's holy Angels are Governed and Ordered by God; and all God's Children and People are Governed and Ordered by God and Chriſt in his Light, and Spirit, and Grace, and Truth, and Power, Goſpel and Word of Life.</p>
+               <p>
+                  <hi>And the Lord hath ſet apart him and them that are Godly for himſelf,</hi> Pſalm 4.</p>
+               <p>
+                  <hi>And God hath Ordained his Arrows againſt the Perſecu<g ref="char:EOLhyphen"/>tors,</hi> Pſalm 7.</p>
+               <p>And it ought to be the Practice of all the true <hi>Chriſtians</hi> now, that are in the ſame Power and Spirit as the Apoſtles were in, to let all things be done De<g ref="char:EOLhyphen"/>cently and in Order, in the New Covenant of Light, Life and Grace, to the Glory of the Great God, who is over all, and orders all things to his Glory, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+            <div type="conclusion">
+               <pb n="18" facs="tcp:109878:10"/>
+               <p>AND now Friends, you who are called into this glorious Liberty of the Sons of God, ſtand faſt in it. And as the Apoſtle ſaith, <hi>Brethren, ye have been called unto Liberty, only uſe it not for an Occaſion to the Fleſh; but in Love ſerve one another,</hi> Gal. 5.</p>
+               <p>
+                  <hi>As free, not uſing your Liberty for a Cloak of Malici<g ref="char:EOLhyphen"/>ouſneſs, but as the Servants of God,</hi> 1 Pet. 2.</p>
+               <p>For there were ſome, who while they promiſed themſelves Liberty, they themſelves were Servants of Corruptions: ſuch were like the Dog and the Sow, biting, and renting, and vomiting, and wallowing in the Mire; and as bad as the Synagogue of the <hi>Li<g ref="char:EOLhyphen"/>bertines</hi> that turned againſt <hi>Stephen,</hi> 2 Pet. 2. and Acts 7.</p>
+               <p>And therefore the Apoſtle was careful of the Churches Liberty in Chriſt, when he ſaid, <hi>But take heed, leſt this Liberty of yours become a Stumbling-block to them that are Weak, &amp;c.</hi> 1 Cor. 8.</p>
+               <p>For the Apoſtle was ſo careful and tender, that he would not have his true Liberty judged of another man's Conſcience, &amp;c. as you may ſee more at large in 1 <hi>Cor.</hi> 10.</p>
+               <p>And the Apoſtle ſaid, <hi>Falſe Brethren came unawares privily, to ſpy out their Liberty, which they had in Chriſt Jeſus, that they might bring them into Bondage; to whom we gave place by Subjection, no not for an Hour, that the Truth of the Goſpel might continue with you</hi> (to wit, the <hi>Galatians</hi>) Gal. 2.</p>
+               <p>And therefore he exhorts them to ſtand faſt in
+<pb n="19" facs="tcp:109878:10"/>that Liberty wherewith Chriſt Jeſus hath made them free, &amp;c. which is the Duty of all true <hi>Chriſtians</hi> now, for to ſtand faſt in that heavenly glorious Liberty which Chriſt the heavenly and ſpiritual man, the Se<g ref="char:EOLhyphen"/>cond <hi>Adam,</hi> makes them free in; and in this they will all have Salt and Savour in themſelves to diſcern between the true Liberty and Freedom and the falſe, and know how to uſe their holy and ſpiritual Liberty and Freedom in Chriſt Jeſus to the Praiſe and Glory of God.</p>
+               <p>So Friends, The Lord God Almighty preſerve you all, in the Heavenly Order of Chriſt Jeſus, in his ho<g ref="char:EOLhyphen"/>ly Seed, Life, Power and Spirit, that all may live and walk in it, to the Praiſe, and Glory, and Honour of God and Chriſt, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>The 3d of the 9th Moneth, 1679.</date>
+                  </dateline>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
